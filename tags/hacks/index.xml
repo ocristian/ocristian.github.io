@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hacks on Cristian Silva</title>
+    <link>https://about.me/ocristian/tags/hacks/</link>
+    <description>Recent content in hacks on Cristian Silva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Apr 2021 23:00:00 +0200</lastBuildDate><atom:link href="https://about.me/ocristian/tags/hacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Remote Productivity Hacks</title>
+      <link>https://about.me/ocristian/post/my-remote-productivity-hacks/</link>
+      <pubDate>Mon, 19 Apr 2021 23:00:00 +0200</pubDate>
+      
+      <guid>https://about.me/ocristian/post/my-remote-productivity-hacks/</guid>
+      <description>Is remote work something new for you? Are you struggling to keep the productivity you once have in the office?</description>
+    </item>
+    
+  </channel>
+</rss>
