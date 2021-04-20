@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hacks on Cristian Silva</title>
-    <link>https://about.me/ocristian/tags/hacks/</link>
+    <link>https://ocristian.github.io/tags/hacks/</link>
     <description>Recent content in hacks on Cristian Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 23:00:00 +0200</lastBuildDate><atom:link href="https://about.me/ocristian/tags/hacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 23:00:00 +0200</lastBuildDate><atom:link href="https://ocristian.github.io/tags/hacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Remote Productivity Hacks</title>
-      <link>https://about.me/ocristian/post/my-remote-productivity-hacks/</link>
+      <link>https://ocristian.github.io/post/my-remote-productivity-hacks/</link>
       <pubDate>Mon, 19 Apr 2021 23:00:00 +0200</pubDate>
       
-      <guid>https://about.me/ocristian/post/my-remote-productivity-hacks/</guid>
+      <guid>https://ocristian.github.io/post/my-remote-productivity-hacks/</guid>
       <description>Is remote work something new for you? Are you struggling to keep the productivity you once have in the office?</description>
     </item>
     

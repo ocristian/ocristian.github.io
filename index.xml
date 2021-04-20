@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristian Silva</title>
-    <link>https://about.me/ocristian/</link>
+    <link>https://ocristian.github.io/</link>
     <description>Recent content on Cristian Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 23:00:00 +0200</lastBuildDate><atom:link href="https://about.me/ocristian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 23:00:00 +0200</lastBuildDate><atom:link href="https://ocristian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://about.me/ocristian/about/</link>
+      <link>https://ocristian.github.io/about/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://about.me/ocristian/about/</guid>
+      <guid>https://ocristian.github.io/about/</guid>
       <description>Hi there, I&amp;rsquo;m a software engineer living in Hamburg, Germany.</description>
     </item>
     
     <item>
       <title>My Remote Productivity Hacks</title>
-      <link>https://about.me/ocristian/post/my-remote-productivity-hacks/</link>
+      <link>https://ocristian.github.io/post/my-remote-productivity-hacks/</link>
       <pubDate>Mon, 19 Apr 2021 23:00:00 +0200</pubDate>
       
-      <guid>https://about.me/ocristian/post/my-remote-productivity-hacks/</guid>
+      <guid>https://ocristian.github.io/post/my-remote-productivity-hacks/</guid>
       <description>Is remote work something new for you? Are you struggling to keep the productivity you once have in the office?</description>
     </item>
     
