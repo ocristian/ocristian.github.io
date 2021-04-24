@@ -1,3 +1,8 @@
 ### macOS ###
 # General
 .DS_Store
+
+### Intellij ###
+**/.idea/
+**/.DS_Store
+**/*.iml
