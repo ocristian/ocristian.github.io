@@ -5,7 +5,7 @@ Description: ""
 author: "Cristian Silva"
 tags: ["codequality", "programming", "java", "kotlin", "maven", "IntelliJIDEA", "tools", "plugins"]
 thumbnail: "images/posts/plugins.jpg"
-draft: true
+draft: false
 ---
 
 Plugins can be very handy in many situations in our daily coding. It can extend core functionalities, provide various integrations and support to automate many tasks.  
