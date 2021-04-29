@@ -2,8 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 Description: ""
-author = "Cristian Silva"
-Tags: []
-Categories: []
-DisableComments: false
+author: "Cristian Silva"
+tags: []
+categories: []
+draft: true
 ---
