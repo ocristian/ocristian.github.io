@@ -5,8 +5,7 @@ Description: ""
 author: "Cristian Silva"
 tags: ["codequality", "programming", "java", "kotlin", "maven", "IntelliJIDEA", "tools", "plugins"]
 thumbnail: "images/posts/plugins.jpg"
-images: 
-  - "images/posts/plugins.jpg"
+images: ["images/posts/plugins.jpg"]
 draft: false
 ---
 
