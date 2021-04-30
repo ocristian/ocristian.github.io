@@ -3,6 +3,8 @@ title: "My Remote Productivity Hacks"
 date: 2021-04-19T23:00:00+02:00
 Description: ""
 tags: ["productivity", "hacks", "tips"]
+thumbnail: "images/posts/my-remote-productivity-hacks-cover.jpg"
+images: ["images/posts/my-remote-productivity-hacks-twitter-card.jpg"]
 ---
 
 Is remote work something new for you? Are you struggling to keep the productivity you once have in the office?  
